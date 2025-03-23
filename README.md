@@ -96,24 +96,24 @@ vercel --prod
 
 # VISION OF EDURESME:
 
-Empower Individuals 🎓 – Enable students and professionals to own and control their verified credentials.
+Empower Individuals – Enable students and professionals to own and control their verified credentials.
 
-Eliminate Credential Fraud ❌ – Use blockchain technology to prevent fake degrees and resumes.
+Eliminate Credential Fraud  – Use blockchain technology to prevent fake degrees and resumes.
 
-Instant Verification ⏳ – Allow employers to verify qualifications securely and instantly using EDU Chain.
+Instant Verification  – Allow employers to verify qualifications securely and instantly using EDU Chain.
 
-Decentralized & Transparent 🔗 – Remove dependency on centralized authorities for trustless credential validation.
+Decentralized & Transparent  – Remove dependency on centralized authorities for trustless credential validation.
 
-Privacy-First Approach 🔒 – Implement Zero-Knowledge Proofs (ZKP) for selective disclosure of credentials.
+Privacy-First Approach  – Implement Zero-Knowledge Proofs (ZKP) for selective disclosure of credentials.
 
-Seamless Integration 🔄 – Provide APIs for job portals, HR tools, and universities to connect with EduResume.
+Seamless Integration  – Provide APIs for job portals, HR tools, and universities to connect with EduResume.
 
-Cost-Effective & Scalable 💰 – Reduce verification costs and scale globally using NFT-based credentialing.
+Cost-Effective & Scalable  – Reduce verification costs and scale globally using NFT-based credentialing.
 
-Future-Proof Credentials 🏆 – Ensure credentials remain tamper-proof, portable, and universally recognized.
+Future-Proof Credentials  – Ensure credentials remain tamper-proof, portable, and universally recognized.
 
 
-#SCREENSHOTS OF EDURESUME:
+# SCREENSHOTS OF EDURESUME:
 
 ![WhatsApp Image 2025-03-23 at 11 02 27_f2d59dad](https://github.com/user-attachments/assets/7c031c22-6ac0-48c5-9e8a-6d62ecf3e183)
 
