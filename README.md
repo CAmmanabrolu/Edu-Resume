@@ -94,7 +94,7 @@ vercel --prod
 - Icons from Lucide React
 
 
-## Vision :
+## Vision 
 
 Empower Individuals – Enable students and professionals to own and control their verified credentials.
 
