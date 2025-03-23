@@ -96,21 +96,21 @@ vercel --prod
 
 ## Vision 
 
-Empower Individuals – Enable students and professionals to own and control their verified credentials.
+- Empower Individuals
 
-Eliminate Credential Fraud  – Use blockchain technology to prevent fake degrees and resumes.
+- Eliminate Credential Fraud 
 
-Instant Verification  – Allow employers to verify qualifications securely and instantly using EDU Chain.
+- Instant Verification
 
-Decentralized & Transparent  – Remove dependency on centralized authorities for trustless credential validation.
+- Decentralized & Transparent 
 
-Privacy-First Approach  – Implement Zero-Knowledge Proofs (ZKP) for selective disclosure of credentials.
+- Privacy-First Approach  
 
-Seamless Integration  – Provide APIs for job portals, HR tools, and universities to connect with EduResume.
+- Seamless Integration 
 
-Cost-Effective & Scalable  – Reduce verification costs and scale globally using NFT-based credentialing.
+- Cost-Effective & Scalable  
 
-Future-Proof Credentials  – Ensure credentials remain tamper-proof, portable, and universally recognized.
+- Future-Proof Credentials 
 
 
 ## Screenshots:
