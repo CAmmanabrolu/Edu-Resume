@@ -94,7 +94,7 @@ vercel --prod
 - Icons from Lucide React
 
 
-# VISION OF EDURESME:
+## Vision :
 
 Empower Individuals – Enable students and professionals to own and control their verified credentials.
 
@@ -113,7 +113,7 @@ Cost-Effective & Scalable  – Reduce verification costs and scale globally usin
 Future-Proof Credentials  – Ensure credentials remain tamper-proof, portable, and universally recognized.
 
 
-# SCREENSHOTS OF EDURESUME:
+## Screenshots:
 
 ![WhatsApp Image 2025-03-23 at 11 02 27_f2d59dad](https://github.com/user-attachments/assets/7c031c22-6ac0-48c5-9e8a-6d62ecf3e183)
 
