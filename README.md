@@ -82,9 +82,7 @@ vercel --prod
 - `src/store`: State management
 - `src/styles`: CSS and style definitions
 
-## License
 
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
