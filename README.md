@@ -1,5 +1,3 @@
-# ABOUT EDURESUME:
-
 ## What is EduResume
 
 EduResume is a blockchain-based educational credential management platform that allows educational institutions to issue verifiable credentials to students, which can be easily verified by potential employers and other stakeholders.
