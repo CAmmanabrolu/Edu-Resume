@@ -17,6 +17,7 @@ EduResume is a blockchain-based educational credential management platform that 
 - Tailwind CSS
 - Vite
 - Ethers.js for blockchain interaction
+- Edu chain
 - MetaMask wallet integration
 
 ## Getting Started
