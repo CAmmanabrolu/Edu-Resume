@@ -115,7 +115,7 @@ vercel --prod
 
 ## Screenshots:
 
-![WhatsApp Image 2025-03-23 at 11 02 27_f2d59dad](https://github.com/user-attachments/assets/7c031c22-6ac0-48c5-9e8a-6d62ecf3e183)
+![WhatsApp Image 2025-03-23 at 11 27 52_d5ebc6cb](https://github.com/user-attachments/assets/23f1b9a1-ec87-47a4-ab2b-f7f84bad1b88)
 
 ![WhatsApp Image 2025-03-23 at 11 02 27_66c870b7](https://github.com/user-attachments/assets/147bbd3a-66e2-4e62-b9db-d74532673a4f)
 
