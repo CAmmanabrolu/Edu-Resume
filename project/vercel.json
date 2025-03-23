@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*\\.(js|css|ico|png|jpg|jpeg|svg|webp|json))",
+      "dest": "/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "github": {
+    "silent": true
+  },
+  "env": {
+    "VITE_APP_TITLE": "EduResume",
+    "VITE_ENABLE_MOCK": "true",
+    "VITE_ENVIRONMENT": "production",
+    "VITE_EDU_TOKEN_ADDRESS": "0x4eDuT0k3nAddr3ss00000000000000000000000",
+    "VITE_CREDENTIAL_NFT_ADDRESS": "0xCr3d3nt1alNFTAddr3ss000000000000000000",
+    "VITE_EDU_CHAIN_ID": "0x7a69"
+  }
+} 
